@@ -14,6 +14,7 @@
         /// Holaaaa///
         /// Bienvenido//
         ///Buenas tardes//
+        ///// Al fin funciona//
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
